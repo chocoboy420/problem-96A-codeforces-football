@@ -9,10 +9,6 @@ int main()
     {
         cout << "YES" << endl;
     }
-    else if (s.find("1111111"))
-    {
-        cout << "YES" << endl;
-    }
     else
     {
         cout << "NO" << endl;
